@@ -11,7 +11,7 @@ OpenCV is used to detect facial area and eyes. Alignment is performed by align f
 <br />
 <br />
 ## Model
-A pretained model was used from [Skuldur/facenet-face-recognition](https://github.com/Skuldur/facenet-face-recognition). The model is saved using keras (version 2.1.6). Later versions might not be compatible with tensorflow-gpu.
+A pretrained model was used from [Skuldur/facenet-face-recognition](https://github.com/Skuldur/facenet-face-recognition). The model is saved using keras (version 2.1.6). Later versions might not be compatible with tensorflow-gpu.
 <br />
 <br />
 ## Detection
