@@ -1,0 +1,4 @@
+This model was saved in keras from a pretrained network for which 
+weights were provided in csv format from below link
+
+https://github.com/Skuldur/facenet-face-recognition
