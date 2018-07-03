@@ -3,7 +3,7 @@ An implementation of face recognition system using convolutional neural networks
 <br />
 <br />
 ## Introduction
-The implementation is inspired by the FaceNet paper [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/abs/1503.03832). The basic idea is to generate a numeric representations of the face called an embedding, and finding the shortest Euclidean distance between a test embedding and all the face embeddings registered in the database. If the shortest distance is less than the threshold, a match is detected.
+The implementation is inspired by the FaceNet paper [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/abs/1503.03832). The basic idea is to generate a numeric representation of the face called an embedding, and finding the shortest Euclidean distance between a test embedding and all the face embeddings registered in the database. If the shortest distance is less than the threshold, a match is detected.
 <br />
 <br />
 ## Image Pre-processing
